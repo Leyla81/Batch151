@@ -1,0 +1,23 @@
+
+
+            STRING METHODS
+   1.toUppercase(): ==>tum harfleri buyuk harfe cevirir.
+                    ==> bize string bir data döndürür
+
+   2.toLowerCase():==> ==>tum harfleri kucuk harfe cevirir.
+                       ==> bize string bir data return eder
+
+
+     3.charAt()==>bize ilk karakteri return eder.
+               ==>index teki karakteri almak icin kullanılır
+               ==charAt()methodu char return eder.
+   4. lenght()==> bir datadaki karakter sayısını bize verir
+              ==>int deger return eder
+
+   5 substring()==> iki kullanımı vardır.
+   1. kullanım: substring(substring baslangıc, bitis) baslangıc ve bitis indexi verilirse baslangıcı dahil eder ama bitis indeksini dahil etmez.
+   2. kullanımı:sbstring(sustring baslangıc) string in verilen indexten sonuna kadar alır
+
+
+   6.contains(): bir data var mi yok mu diye bakar bize boolean deger dondurur.
+   7.startsWith():
